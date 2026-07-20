@@ -11,5 +11,6 @@ Software Developer focused on Python & C++.
 
 ---
 
-### 📊 GitHub Stats
-![luvskidd's GitHub streak](https://github-readme-streak-stats.herokuapp.app/?user=luvskidd&theme=dark)
+### 💻 Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
