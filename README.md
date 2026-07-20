@@ -12,5 +12,4 @@ Software Developer focused on Python & C++.
 ---
 
 ### 📊 GitHub Stats
-![luvskidd's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvskidd&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvskidd&layout=compact&theme=dark)
+![luvskidd's GitHub streak](https://github-readme-streak-stats.herokuapp.app/?user=luvskidd&theme=dark)
