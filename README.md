@@ -1,4 +1,4 @@
-# Hi there, I'm luvskidd 👋
+# Hi there, I'm Denys Zelinskyi 👋
 
 Software Developer focused on Python & C++.
 
